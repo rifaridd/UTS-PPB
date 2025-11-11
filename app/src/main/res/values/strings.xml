@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">TugasUTS</string>
+
+    <string name="form_header">Formulir Pendaftaran</string>
+
+    <string name="label_username">Username</string>
+    <string name="hint_username">Masukkan username</string>
+
+    <string name="label_email">Email</string>
+    <string name="hint_email">Masukkan email</string>
+
+    <string name="label_name">Nama</string>
+    <string name="hint_first_name">Nama depan</string>
+    <string name="hint_last_name">Nama belakang</string>
+
+    <string name="label_password">Password</string>
+    <string name="hint_password">Masukkan password</string>
+
+    <string name="label_confirm_password">Konfirmasi Password</string>
+    <string name="hint_confirm_password">Ulangi password</string>
+
+    <string name="btn_submit">Kirim</string>
+    <string name="btn_cancel">Batal</string>
+
+    <!-- Pesan toast -->
+    <string name="msg_fill_all">Semua inputan harus diisi!</string>
+    <string name="msg_password_mismatch">Password dan konfirmasi tidak sama!</string>
+    <string name="msg_registered">Pendaftaran berhasil! Selamat datang, %1$s</string>
+    <string name="msg_cleared">Formulir telah dibersihkan</string>
 </resources>
