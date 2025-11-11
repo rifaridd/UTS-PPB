@@ -4,20 +4,20 @@
     <string name="form_header">Formulir Pendaftaran</string>
 
     <string name="label_username">Username</string>
-    <string name="hint_username">Masukkan username</string>
+    <string name="hint_username">masukkan username</string>
 
     <string name="label_email">Email</string>
-    <string name="hint_email">Masukkan email</string>
+    <string name="hint_email">masukkan email</string>
 
     <string name="label_name">Nama</string>
-    <string name="hint_first_name">Nama depan</string>
-    <string name="hint_last_name">Nama belakang</string>
+    <string name="hint_first_name">nama depan</string>
+    <string name="hint_last_name">nama belakang</string>
 
     <string name="label_password">Password</string>
-    <string name="hint_password">Masukkan password</string>
+    <string name="hint_password">masukkan password</string>
 
     <string name="label_confirm_password">Konfirmasi Password</string>
-    <string name="hint_confirm_password">Ulangi password</string>
+    <string name="hint_confirm_password">konfirmasi password</string>
 
     <string name="btn_submit">Kirim</string>
     <string name="btn_cancel">Batal</string>

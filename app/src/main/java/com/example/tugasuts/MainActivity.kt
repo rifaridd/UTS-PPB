@@ -21,13 +21,13 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        // Inisialisasi komponen dari XML
+        // Inisialisasi
         val editUsername = findViewById<EditText>(R.id.editUsername)
         val editEmail = findViewById<EditText>(R.id.editEmail)
         val editFirstName = findViewById<EditText>(R.id.editFirstName)
         val editLastName = findViewById<EditText>(R.id.editLastName)
         val editPassword = findViewById<EditText>(R.id.editPassword)
-        val editConfirmPassword = findViewById<EditText>(R.id.editConfirmPassword) // tambahkan di XML
+        val editConfirmPassword = findViewById<EditText>(R.id.editConfirmPassword)
         val btnSubmit = findViewById<Button>(R.id.btnSubmit)
         val btnCancel = findViewById<Button>(R.id.btnCancel)
 
